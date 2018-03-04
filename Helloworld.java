@@ -1,6 +1,6 @@
 
 public class Helloworld {
     public static void main(String[] args) {
-    	System.out.println("HelloWasdforld.java");
+    	System.out.println("Hellfuckd.java");
     }
 }
